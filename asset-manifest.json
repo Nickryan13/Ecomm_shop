@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Ecomm_shop/static/js/main.855c69f6.chunk.js",
+    "main.js.map": "/Ecomm_shop/static/js/main.855c69f6.chunk.js.map",
+    "runtime-main.js": "/Ecomm_shop/static/js/runtime-main.1606b22f.js",
+    "runtime-main.js.map": "/Ecomm_shop/static/js/runtime-main.1606b22f.js.map",
+    "static/js/2.7f703f9b.chunk.js": "/Ecomm_shop/static/js/2.7f703f9b.chunk.js",
+    "static/js/2.7f703f9b.chunk.js.map": "/Ecomm_shop/static/js/2.7f703f9b.chunk.js.map",
+    "index.html": "/Ecomm_shop/index.html",
+    "static/js/2.7f703f9b.chunk.js.LICENSE.txt": "/Ecomm_shop/static/js/2.7f703f9b.chunk.js.LICENSE.txt",
+    "static/media/shopping-online.8805cd5e.jpg": "/Ecomm_shop/static/media/shopping-online.8805cd5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1606b22f.js",
+    "static/js/2.7f703f9b.chunk.js",
+    "static/js/main.855c69f6.chunk.js"
+  ]
+}
